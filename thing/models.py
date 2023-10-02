@@ -7,4 +7,4 @@ class ThingUser(models.Model):
     quantity = models.IntegerField()
 
 
-# Create your models here.
+
